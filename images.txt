@@ -4,3 +4,4 @@ python:alpine3.19
 haroldli/xiaoya-tvbox:native
 xiaoyaliu/alist:hostmode
 ddsderek/xiaoya-emd:latest
+whyour/qinglong:latest
