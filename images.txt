@@ -6,3 +6,4 @@ xiaoyaliu/alist:hostmode
 ddsderek/xiaoya-emd:latest
 whyour/qinglong:latest
 cloudnas/clouddrive2-unstable
+emby/embyserver:4.8.0.56
