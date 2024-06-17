@@ -5,3 +5,4 @@ haroldli/xiaoya-tvbox:native
 xiaoyaliu/alist:hostmode
 ddsderek/xiaoya-emd:latest
 whyour/qinglong:latest
+clouddrive2-unstable
