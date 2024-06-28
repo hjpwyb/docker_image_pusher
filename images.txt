@@ -8,4 +8,4 @@ whyour/qinglong:latest
 cloudnas/clouddrive2-unstable
 emby/embyserver:4.8.0.56
 jellyfin/jellyfin:latest
-jxxghp/nas-tools:latest
+nastool/nas-tools:latest
