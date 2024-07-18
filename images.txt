@@ -9,3 +9,4 @@ cloudnas/clouddrive2-unstable
 emby/embyserver:4.8.0.56
 jellyfin/jellyfin:latest
 nastool/nas-tools:latest
+linuxserver/transmission:latest
